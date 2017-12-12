@@ -1,4 +1,0 @@
-#Sun Dec 10 20:56:46 EST 2017
-base.0=/Users/zhenglu/Desktop/mobile-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/zhenglu/Desktop/mobile-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
