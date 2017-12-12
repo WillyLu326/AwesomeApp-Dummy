@@ -1,3 +1,3 @@
-rootProject.name = 'willyreactnative'
+rootProject.name = 'mobileapp'
 
 include ':app'
